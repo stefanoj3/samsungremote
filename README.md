@@ -1,5 +1,7 @@
 ## samsungremote
 
+[![CircleCI](https://circleci.com/gh/stefanoj3/samsungremote/tree/master.svg?style=svg)](https://circleci.com/gh/stefanoj3/samsungremote/tree/master)
+
 samsungremote is a library that allows to send commands to your samsung TV via websocket.
 
 I have tested this library only against a samsung model `UEMU6199UXZG`, 

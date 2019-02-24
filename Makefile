@@ -1,5 +1,5 @@
 ## Fetch dependencies
-vendor: Gopkg.lock Gopkg.toml
+vendor: Gopkg.toml
 	dep ensure
 
 .PHONY: test
